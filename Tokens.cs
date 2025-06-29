@@ -1,4 +1,4 @@
-namespace Wayvlyte.BladeLang;
+namespace Wayvlyte.BladeDSL;
 
 public enum Tokens
 {
