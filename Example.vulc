@@ -1,5 +1,5 @@
 proj Neon {
-    {libraries
+    [libraries
         deps/SDL3
-    end}
+    end]
 }

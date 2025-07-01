@@ -5,7 +5,8 @@ public enum Tokens
     Keyword,
     Value,
     EndLoop,
-    StartLoop
+    StartLoop,
+    Block
 }
 
 // Keyword enums to be assigned to keywords
